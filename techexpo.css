@@ -1,0 +1,161 @@
+.logo{
+    width: 70px;
+    margin-left: 90px;
+}
+.navbar{
+    height: 100px;
+    z-index: 1;
+    position: fixed;
+}
+.navbar-nav{
+    margin-left: 650px;
+    color: #224093;
+}
+.nav-item2{
+    margin-left: 60px;
+    color: #224093;
+}
+.nav-item3{
+    margin-left: 60px;
+}
+.d-flex{
+    margin-right: 100px;
+}
+.btn{
+    width: 120px;
+    border-radius: 5px;
+    height: 40px;
+}
+.IBDIMG{
+    width: 1250px;
+    margin-left: 90px;
+    margin-top: 40px;
+}
+.Edition{
+    margin-left: 90px;
+    font-size: 25px;
+    color: #224093;
+}
+.line{
+    width: 21%;
+}
+.star{
+    margin-left: 540px;
+    margin-top: -75px;
+    width: 5%;
+    border: 1px solid green;
+    border-radius: 50px;
+}
+.line1{
+    margin-left: 700px;
+    margin-top: -150px;
+    width: 21%;
+}
+.September{
+    margin-top: -109px;
+    margin-left: 1000px;
+}
+
+
+@keyframes identifier {
+    
+}
+.Tickets button{
+    background-color: #00208a;
+    color: white;
+    padding: 20px 35px;
+    margin-top: 40px;
+    border: none;
+    width: 42%;
+    margin-left: 90px;
+    height: 46px;
+    background-color: #fdb916;
+    display: flex;
+}
+.Tickets b{
+    margin-top: -15px;
+    font-size: 24px;
+    margin-left: 180px;
+    cursor: pointer;
+    color: #224093;
+}
+.fund{
+    border: 1px solid #224093; 
+    width: 42%; 
+    margin-left: 737px; 
+    height: 47px; 
+    margin-top: -49px;
+}
+.BECOME{
+    font-size: 25px;
+    color: #224093;
+    margin-left: 910px;
+    margin-top: -44px;
+    cursor: pointer;
+}
+.win{
+    border: 1px solid;
+    height: 270px;
+    width: 1250px;
+    margin-left: 90px;
+    background-color: #5576cf;
+    border-radius: 7px;
+    border: none;
+}
+.Venue{
+    font-size: 48px;
+    margin-top: -255px;
+    color: white;
+    margin-left: 600px;
+}
+.ibadan{
+    color: white;
+    margin-left: 300px;
+    font-size: 30px;
+    margin-top: -20px;
+}
+.date{
+    margin-top: 70px;
+    margin-left: 630px;
+    font-size: 48px;
+    color: white;
+}
+.saturday{
+    color: white;
+    margin-left: 450px;
+    font-size: 30px;
+    margin-top: -13px;
+}
+.imgg{
+    width: 62%;
+    margin-top: 210px;
+    margin-left: 90px;
+}
+.lin{
+    border: 1px solid #fdb916;
+    margin-left: 90px;
+    width: 62%;
+}
+.welcome{
+     margin-left: 90px;
+     color: #224093;
+     font-size: 16px;
+}
+.seccen{
+    display: flex;
+}
+.imggg{
+    width: 660px;
+    margin-top: 80px;
+    margin-left: -275px;
+}
+.VENUEEE{
+    font-size: 65px;
+    margin-left: 90px;
+    color: #224093;
+}
+.lion{
+    border: 1px solid #fdb916;
+    margin-left: 90px;
+    width: 86.8%;
+}
